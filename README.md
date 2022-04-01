@@ -7,7 +7,7 @@
 
 **Course Title** : Object Oriented Programming Laboratory
 
-**Course Teacher** : Sheikh Md. Rukunuddin Osman
+**Course Teacher** : Sheikh Md. Rukunuddin Osmani
 
 **Session** : Fall 2019
 
